@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hello! I'm Roberto Moreira
 
-<!--
-**robertms55/robertms55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 **Quality Assurance Analyst | Postgraduate in Software Engineering**
 
-Here are some ideas to get you started:
+QA professional with over 7 years of experience in automated testing (functional and non-functional), working on large-scale projects in telecom, banking, e-commerce, and CRM sectors. Strong background in agile environments (Scrum, Kanban), with expertise across the full QA cycle: planning, automation, execution, and reporting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also have experience in **backend development with Spring Boot**, as well as **performance testing and observability**, enabling me to collaborate effectively with development, infrastructure, and architecture teams.
+
+## 💡 Key Skills
+- **Test Automation**: Selenium, Cucumber, HP-UFT, Cypress, JUnit, Java  
+- **Mobile Testing**: Appium (Android/iOS), Ruby, Java  
+- **Performance Testing**: JMeter, LoadRunner, SoapUI, K6  
+- **Monitoring & Observability**: Datadog, Kibana  
+- **Backend Development**: Spring Boot, Java  
+- **QA Tools**: Jira, Zephyr, Octane, TestLink, Mantis, HP ALM  
+- **Agile**: Scrum, Kanban  
+- **Version Control**: Git, Bitbucket  
+
+---
+
+### 🌐 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in//roberto-moreira-b3a331153/)   
+🌍 From: Brazil
+
+---
+
+🔭 Currently working on improving QA automation and backend skills  
+📚 Constantly learning about cloud, architecture, and software quality
